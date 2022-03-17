@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+$font_body: 'Pangolin';
+$linear_grad_1: orangered;
+$linear_grad_2: coral;
+
+@import "body";
+@import "nav";
+@import "contenedor";
+@import "titulos";
+@import "animation";
+@import "img";
+@import "footer";

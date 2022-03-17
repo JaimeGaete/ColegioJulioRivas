@@ -1,0 +1,23 @@
+@keyframes mi_animacion {
+    0% {
+    }
+
+    25% {
+        transform: translate(50px, -25px);
+    }
+
+    50% {
+        width: 400px;
+        transform: translate(100px, -50px);
+
+    }
+    75% {
+        width: 400px;
+        transform: translate(100px, -525px);
+
+    }
+
+    100% {
+        transform: translate(100px, -100px);
+    }
+}
