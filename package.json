@@ -1,7 +1,7 @@
 {
-  "name": "colegiojr_terceraentregaproyectofinal",
+  "name": "terceraentrega",
   "version": "1.0.0",
-  "description": "Proyecto CODER_HOUSE - Colegio Julio Rivas",
+  "description": "Tercera Entrega proyecto Colegio Julio Rivas",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaimeGaete/ColegioJR_version2.git"
+    "url": "git+https://github.com/JaimeGaete/ColegioJulioRivas.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JaimeGaete/ColegioJR_version2/issues"
+    "url": "https://github.com/JaimeGaete/ColegioJulioRivas/issues"
   },
-  "homepage": "https://github.com/JaimeGaete/ColegioJR_version2#readme",
+  "homepage": "https://github.com/JaimeGaete/ColegioJulioRivas#readme",
   "devDependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.15"

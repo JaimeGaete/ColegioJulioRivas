@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+$letra_alto: 100px;
+$color_titulos: black;
+
+/*
+$font_body: 'Pangolin';
+$linear_grad_1: orangered;
+$linear_grad_2: coral;
+*/
+
+
+// map para los titulos
+$titulos: (
+    colore: $color_titulos,
+    tamano: $letra_alto,
+    tono: bold
+);
+
+// map para los subtitulos destacados
+$subdestacados: ( 
+1: #55acee,
+2: #3a5795,
+3: #C25E30,
+4: #c72f2f,
+5: blueviolet,
+6: darkslateblue
+);
+
