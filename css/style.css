@@ -30,9 +30,8 @@ body
 .a_href_link {
     text-decoration: none;
     margin-left: 20px;
-    font-size: large;
-    color:navy;
-    font-weight:bold;
+    font-size: smaller;
+    font-weight: bold;
 }
 
 .img__scale:hover {
@@ -53,3 +52,9 @@ body
 
 .carousel img {margin: auto;}
 
+.row
+{
+    display: flex;
+    justify-content:center;
+    /*d-flex justify-content-center*/
+}

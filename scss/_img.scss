@@ -7,3 +7,9 @@ img {
     };
 
 }
+
+.img__scale:hover {
+    transform: scale(1.5);
+    align-items: center;
+}
+
